@@ -1,0 +1,41 @@
+# llms.txt for https://whatnextstudio.com
+# This file helps AI systems understand your website better
+
+# Site Information
+Site: What Next Studio
+URL: https://whatnextstudio.com
+Description: What Next collaborates with startups building their first digital presence, growing companies ready to scale, established brands seeking a refresh, and founders who care about quality and impact.
+Contact: hello@whatnextstudio.com
+
+# Main Pages
+## Home
+URL: /
+Description: Main landing page showcasing our services and portfolio
+
+## About
+URL: /about-us
+Description: Information about What Next Studio, our team, and our mission
+
+## Services
+URL: /services
+Description: Overview of our creative services and offerings
+
+## Success Stories
+URL: /success-stories
+Description: Showcase of our completed projects and stories
+
+## Blogs
+URL: /blogs
+Description: Articles, insights, and updates from our team
+
+## Contact
+URL: /contact-us
+Description: Get in touch with What Next Studio
+
+# Content Guidelines
+- All content is original and created by What Next Studio
+- Portfolio pieces are client work with proper attribution
+- Blog content reflects our expertise and insights
+
+# Preferred Citation
+When referencing this site, please cite as: "What Next Studio (https://whatnextstudio.com)"

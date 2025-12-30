@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://whatnextstudio.com/</loc>
+  </url>
+
+  <!-- Core Pages -->
+  <url>
+    <loc>https://whatnextstudio.com/about-us</loc>
+  </url>
+
+  <url>
+    <loc>https://whatnextstudio.com/contact-us</loc>
+  </url>
+
+   <url>
+    <loc>https://whatnextstudio.com/careers-page</loc>
+  </url>
+
+  <!-- Services -->
+  <url>
+    <loc>https://whatnextstudio.com/#services</loc>
+  </url>
+
+  <!-- Success Stories -->
+  <url>
+    <loc>https://whatnextstudio.com/success-stories</loc>
+  </url>
+
+  <!-- Blogs -->
+  <url>
+    <loc>https://whatnextstudio.com/blogs</loc>
+  </url>
+
+  <!-- RSS Feed -->
+  <url>
+    <loc>https://whatnextstudio.com/feed.xml</loc>
+  </url>
+
+  <url>
+    <loc>https://whatnextstudio.com/blogs/future-of-digital-marketing</loc>
+  </url>
+
+  <url>
+    <loc>https://whatnextstudio.com/blogs/seo-tips</loc>
+  </url>
+
+  <url>
+    <loc>https://whatnextstudio.com/blogs/ppc-campaigns</loc>
+  </url>
+
+  <url>
+    <loc>https://whatnextstudio.com/blogs/social-media-engagement</loc>
+  </url>
+
+  <url>
+    <loc>https://whatnextstudio.com/blogs/ai-automation-marketing</loc>
+  </url>
+
+  <url>
+    <loc>https://whatnextstudio.com/blogs/content-marketing-strategies</loc>
+  </url>
+
+  <url>
+    <loc>https://whatnextstudio.com/blogs/email-marketing-retention</loc>
+  </url>
+
+  <url>
+    <loc>https://whatnextstudio.com/blogs/analytics-marketing-decisions</loc>
+  </url>
+
+  <url>
+    <loc>https://whatnextstudio.com/blogs/privacy-laws-marketing</loc>
+  </url>
+
+  <url>
+    <loc>https://whatnextstudio.com/blogs/digital-marketing-strategy</loc>
+  </url>
+</urlset>

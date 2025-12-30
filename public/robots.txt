@@ -1,0 +1,28 @@
+# robots.txt for https://whatnextstudio.com
+
+# Allow all crawlers by default
+User-agent: *
+Allow: /
+
+# Crawl-delay for polite crawling
+# Crawl-delay: 1
+
+# Disallow specific paths 
+# Disallow: /admin/
+# Disallow: /private/
+# Disallow: /api/
+# Disallow: /*.json$
+# Disallow: /search?
+
+# Allow specific bots explicitly
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Sitemap location
+Sitemap: https://whatnextstudio.com/sitemap.xml
